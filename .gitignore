@@ -112,3 +112,4 @@ yarn-error.log*
 
 # EAS
 .eas/
+expo-env.d.ts
